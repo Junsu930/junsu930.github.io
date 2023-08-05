@@ -108,13 +108,6 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "행복하게 코딩합시다. 좋은 글을 남기자"
   email            : "bobdylan0331@gmail.com"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "bobdylan0331@gmail.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Junsu930""
 
 # Site Footer
 footer:
