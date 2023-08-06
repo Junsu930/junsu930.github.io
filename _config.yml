@@ -101,11 +101,15 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
+# header
+header:
+  image: "/assets/images/earth-ge740c5517_1920.jpg"
+
 
 # Site Author
 author:
   name             : "CodingJazz"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/codigsiba.jpg"
   bio              : "행복하게 코딩합시다. 좋은 글을 남기자"
   email            : "bobdylan0331@gmail.com"
 
